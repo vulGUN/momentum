@@ -1,0 +1,166 @@
+{
+  "ru": [
+    {
+      "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+      "author": "Мартин Голдин"
+    },
+    {
+      "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+      "author": "Артур Блох. Законы Мэрфи"
+    },
+    {
+      "text": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+      "author": "И. Берард"
+    },
+    {
+      "text": "Иногда лучше остаться спать дома в понедельник, чем провести всю неделю в отладке написанного в понедельник кода.",
+      "author": "Кристофер Томпсон"
+    },
+    {
+      "text": "Большинство хороших программистов делают свою работу не потому, что ожидают оплаты или признания, а потому что получают удовольствие от программирования.",
+      "author": "Линус Торвальдс"
+    },
+    {
+      "text": "Магия перестаёт существовать после того, как вы понимаете, как она работает.",
+      "author": "Тим Бернерс-Ли"
+    },
+    {
+      "text": "Мы наблюдаем общество, которое все больше зависит от машин, но при этом использует их все неэффективнее.",
+      "author": "Дуглас Рушкоф"
+    },
+    {
+      "text": "Иногда лучшие программы создаются на бумажке. Запрограммировать их — второстепенная вещь.",
+      "author": "Макс Канат-Александр"
+    },
+    {
+      "text": "Любой дурак сможет написать код, который поймет машина. Хорошие программисты пишут код, который сможет понять человек.",
+      "author": "Мартин Фоулер"
+    },
+    {
+      "text": "Программирование — это разбиение чего-то большого и невозможного на что-то маленькое и вполне реальное.",
+      "author": "Jazzwant"
+    },
+    {
+      "text": "Простота — залог надежности.",
+      "author": "Edsger W. Dijkstra"
+    },
+    {
+      "text": "Неработающая программа обычно приносит меньше вреда, чем работающая плохо.",
+      "author": "Дэйв Томас"
+    },
+    {
+      "text": "Молодые специалисты не умеют работать, а опытные специалисты умеют не работать.",
+      "author": "Александр Голов"
+    },
+    {
+      "text": "Чтобы написать чистый код, мы сначала пишем грязный код, а затем рефакторим его.",
+      "author": "Робер Мартин"
+    },
+    {
+      "text": "Для каждой сложной задачи существует решение, которое является быстрым, простым и неправильным.",
+      "author": "H. L. Mencken"
+    },
+    {
+      "text": "Аналогично тому, как написание картины является искусством для души, так и написание программы является искусством для разума.",
+      "author": "Volnik"
+    },
+    {
+      "text": "Сначала учите науку программирования и всю теорию. Далее выработайте свой программистский стиль. Затем забудьте всё и просто программируйте.",
+      "author": "George Carrette"
+    },
+    {
+      "text": "Нельзя доверять коду, который вы не написали полностью сами.",
+      "author": "Ken Thompson"
+    },
+    {
+      "text": "Если вы наслаждаетесь используемыми инструментами, то работа будет выполнена успешно.",
+      "author": "Дональд Кнут"
+    },
+    {
+      "text": "В теории, теория и практика неразделимы. На практике это не так.",
+      "author": "Йоги Берра"
+    }
+  ],
+  "en": [
+    {
+      "text": "Write code as if it were accompanied by a violent psychopath who knows where you live",
+      "author": "Martin Golding"
+    },
+    {
+      "text": "The complexity of the program grows until it exceeds the ability of the programmer.",
+      "author": "A. Bloh"
+    },
+    {
+      "text": "It's very easy to walk on water and develop programs following the ToR... if they are frozen",
+      "author": "I. Berrard"
+    },
+    {
+      "text": "Sometimes it's better to stay home on Monday than to spend the whole week debugging code written on Monday.",
+      "author": "Christopher Thompson"
+    },
+    {
+      "text": "Most good programmers do their jobs not because they expect to be paid or recognized, but because they enjoy programming.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "text": "Magic ceases to exist once you understand how it works.",
+      "author": "Tim Berners-Lee"
+    },
+    {
+      "text": "We are witnessing a society that is increasingly dependent on machines, but at the same time uses them more and more inefficiently.",
+      "author": "Douglas Rushkoff"
+    },
+    {
+      "text": "Sometimes the best programs are written on paper. Programming them is a secondary thing.",
+      "author": "Max Kanat-Alexander"
+    },
+    {
+      "text": "Any fool can write code that a machine can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "text": "Programming is about breaking something big and impossible into something small and quite real.",
+      "author": "Jazzwant"
+    },
+    {
+      "text": "Simplicity is the key to reliability.",
+      "author": "Edsger W. Dijkstra"
+    },
+    {
+      "text": "A program that doesn't work is usually less harmful than a program that doesn't work well.",
+      "author": "Dave Thomas"
+    },
+    {
+      "text": "Young specialists don't know how to work, but experienced specialists know how not to work.",
+      "author": "Alexander Golov"
+    },
+    {
+      "text": "To write clean code, we first write dirty code and then refactor it.",
+      "author": "Robert Martin"
+    },
+    {
+      "text": "For every difficult problem, there is a solution that is quick, easy, and wrong.",
+      "author": "H. L. Mencken"
+    },
+    {
+      "text": "Just as painting a picture is an art for the soul, writing a program is an art for the mind.",
+      "author": "volnik"
+    },
+    {
+      "text": "First learn the science of programming and all the theory. Then develop your programming style. Then forget everything and just program.",
+      "author": "George Carrette"
+    },
+    {
+      "text": "You can't trust code that you haven't written entirely yourself.",
+      "author": "Ken Thompson"
+    },
+    {
+      "text": "If you enjoy the tools you use, then the job will be done successfully.",
+      "author": "Donald Knuth"
+    },
+    {
+      "text": "In theory, theory and practice are inseparable. In practice, they are not.",
+      "author": "Yoggi Berra"
+    }
+  ]
+}

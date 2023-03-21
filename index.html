@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="assets/favicon.ico" rel="shortcut icon" />
+  <link rel="stylesheet" href="css/owfont-regular.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <title>momentum</title>
+</head>
+
+<body>
+  <div id="preloader">
+    <div class="spinner"></div>
+  </div>
+  <div class="mobile-error">
+    <div class="error-text">Sorry, this application only works on the desktop</div>
+  </div>
+  <div class="wrapper">
+    <div class="circle"></div>
+    <header class="header">
+      <div class="player">
+        <div class="time-slider">
+          <div class="time-current">00:00</div>
+          <input type="range" id="progressBar" min="0" max="100" value="0" step="1">
+          <div class="time-end">01:20</div>
+        </div>
+        <div class="player-controls">
+          <button class="play-prev player-icon"></button>
+          <button class="play player-icon"></button>
+          <button class="play-next player-icon"></button>
+          <button class="volume player-icon">
+            <input type="range" id="volumeBar" min="0" max="100" value="65" step="1">
+          </button>
+        </div>
+        <ul class="play-list">
+        </ul>
+      </div>
+      <div class="language"></div>
+      <div class="weather">
+        <input type="text" class="city" />
+        <div class="weather-error">Ошибка. Не удалось загрузить данные погоды</div>
+        <div class="weather-wrap">
+          <i class="weather-icon owf"></i>
+          <div class="description-container">
+            <span class="temperature"></span>
+            <span class="weather-description"></span>
+          </div>
+          <div class="wind"></div>
+          <div class="humidity"></div>
+        </div>
+      </div>
+    </header>
+    <main class="main">
+      <div class="slider-icons">
+        <button class="slide-prev slider-icon"></button>
+        <button class="slide-next slider-icon"></button>
+      </div>
+      <time class="time"></time>
+      <date class="date"></date>
+      <div class="greeting-container">
+        <span class="greeting"></span>
+        <input type="text" class="name" placeholder="введите имя..." />
+      </div>
+    </main>
+    <footer class="footer">
+      <div class="settings">
+        <div class="settings-menu">
+          <div class="language">
+            <div class="lang-label"></div>
+            <div class="btns-wrap">
+              <button class="ru-lang lang-btn lang-btn-active">RU</button>
+              <button class="en-lang lang-btn">EN</button>
+            </div>
+          </div>
+          <div class="photo-stocks">
+            <button class="github-photos photo-btn">GitHub</button>
+            <button class="unsplash-photos photo-btn">Unsplash</button>
+            <button class="flickr-photos photo-btn">Flickr</button>
+          </div>
+        </div>
+        <button class="settings-btn"></button>
+      </div>
+      <button class="change-quote"></button>
+      <div>
+        <div class="quote"></div>
+        <div class="author"></div>
+      </div>
+      <div class="todo-list">
+        <div class="todo-menu">
+          <input type="text" class="todo-input" placeholder="Новая задача">
+          <ul class="todo-tasks">
+          </ul>
+          <div class="todo-placeholder"></div>
+        </div>
+        <button class="todo-btn"></button>
+      </div>
+    </footer>
+  </div>
+  <script type="module" src="js/script.js"></script>
+</body>
+
+</html>
